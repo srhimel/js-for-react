@@ -1,4 +1,4 @@
-<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="250" height="280">
+<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="150" height="150">
 
 ## প্রোগ্রামিংয়ের ছয়রত্ন কি তুমি কি জানো: 
 
