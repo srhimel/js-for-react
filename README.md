@@ -1,6 +1,5 @@
 <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="150" height="150">
 
-- [x] 
 ## প্রোগ্রামিংয়ের ছয়রত্ন কি তুমি কি জানো: 
 
 1.  কিভাবে let, const দিয়ে ভেরিয়েবল লিখতে হয়। কখন কোনটা ইউজ করে তুমি কি জানো 
