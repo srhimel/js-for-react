@@ -1,4 +1,4 @@
-![React](https://rawgit.com/gorangajic/react-icons/master/react-icons.svg)
+![React](https://rawgit.com/gorangajic/react-icons/master/react-icons.svg =250x250)
 
 ## প্রোগ্রামিংয়ের ছয়রত্ন কি তুমি কি জানো: 
 
